@@ -1,0 +1,48 @@
+html{
+    background-color: #d6d6d6;
+}
+.head_div{
+    background-color: rgba(159, 212, 177, 0.548);
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    color: #40c781;
+    font-family: bold;
+    text-align: center;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    margin: 70px 25px 25px 25px;
+}
+button{
+    margin: 25px;
+    background-color: #40c781;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    font-family: bold;
+    text-align: center;
+    border-radius: 50px;
+    color: #35a76e;
+    border: #ffffff;
+}
+
+.Input{
+    background-color: #40c781;
+    border: none;
+    border-radius: 45px;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 25px;
+}
+.Input:hover{
+    padding: 15px;
+}
+
+button:hover{
+    background-color: #40b97b;
+    color: #42a774;
+}
+button:active{
+    background-color: #3ba870;
+    color: #43996e;
+}
